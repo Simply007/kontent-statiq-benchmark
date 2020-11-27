@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "kontent-statiq-benchmark": {
+      "commandName": "Project",
+      "commandLineArgs": "preview"
+    }
+  }
+}
