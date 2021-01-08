@@ -184,8 +184,8 @@ Pipeline phase timeline:
 
 If you want to test out different data  Set `app.settings` ProjectId to:
 
-512 pages: "a10066e5-3116-009d-b85f-92a648ba1b5e"
-4096 pages: "cf018856-cb3d-00c8-6833-9b42bf5464dc"
-8192 pages: "582c80c7-df57-00b5-d969-64b3cc3d4a36"
-32 768 pages: "4b48bc3a-83aa-000e-55e0-4e1bcf9e829d"
+* 512 pages: "a10066e5-3116-009d-b85f-92a648ba1b5e"
+* 4096 pages: "cf018856-cb3d-00c8-6833-9b42bf5464dc"
+* 8192 pages: "582c80c7-df57-00b5-d969-64b3cc3d4a36"
+* 32 768 pages: "4b48bc3a-83aa-000e-55e0-4e1bcf9e829d"
 
