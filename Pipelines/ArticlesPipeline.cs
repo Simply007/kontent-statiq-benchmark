@@ -14,6 +14,7 @@ namespace Kentico.Kontent.Benchmark.Statiq.Pipelines
             InputModules = new ModuleList
             {
                 new Kontent<Article>(client)
+                    .WithItemsFeed()
             };
 
             ProcessModules = new ModuleList
