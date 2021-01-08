@@ -21,7 +21,7 @@ See [Github action logs](https://github.com/Simply007/kontent-statiq-benchmark/a
 
 * 512 pages - **9s** (2m 4s for whole job incl. deploy to github pages) - [JOB LINK](https://github.com/Simply007/kontent-statiq-benchmark/actions/runs/471564487)
 * 4096 pages - **13s** (4m 45s for whole job incl. deploy to github pages) - [JOB LINK](https://github.com/Simply007/kontent-statiq-benchmark/actions/runs/471550272)
-* 8192 pages - **16s*** (7m 40s for whole job incl. deploy to github pages) - [JOB LINK](https://github.com/Simply007/kontent-statiq-benchmark/actions/runs/471521860)
+* 8192 pages - **16s** (7m 40s for whole job incl. deploy to github pages) - [JOB LINK](https://github.com/Simply007/kontent-statiq-benchmark/actions/runs/471521860)
 * 32768 pages - **46s** (21m 17s for whole job incl. deploy to github pages) - [JOB LINK](https://github.com/Simply007/kontent-statiq-benchmark/actions/runs/471459012)
 
 ## How to use
